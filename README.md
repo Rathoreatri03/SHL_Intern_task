@@ -115,9 +115,9 @@ Outputs predictions and metrics on the test set.
 
 ## 👥 Team
 
-- **Project Lead**: [Your Name]
-- **Developers**: [Team Members]
-- **Institution**: SHL Hackathon, [Your College/Org]
+- **Project Lead**: Atri Rathore
+- **Developers**: Indivisual Project
+- **Institution**: SHL Hackathon, Chandigarh University
 
 ## 📄 License
 
