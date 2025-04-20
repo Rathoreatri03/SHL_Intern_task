@@ -116,7 +116,7 @@ Outputs predictions and metrics on the test set.
 ## 👥 Team
 
 - **Project Lead**: Atri Rathore
-- **Developers**: Indivisual Project
+- **Developers**: DODO
 - **Institution**: SHL Hackathon, Chandigarh University
 
 ## 📄 License
